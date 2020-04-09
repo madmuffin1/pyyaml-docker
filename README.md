@@ -1,8 +1,8 @@
 # pyyaml-docker
 
-![build status](https://img.shields.io/docker/build/finodigital/pyyaml.svg) ![automated build](https://img.shields.io/docker/automated/finodigital/pyyaml.svg)
+![build status](https://img.shields.io/docker/build/madmuffin/pyyaml.svg) ![automated build](https://img.shields.io/docker/automated/madmuffin/pyyaml.svg)
 
-This repo contains a Dockerfile which is automatically built and available at https://hub.docker.com/r/finodigital/pyyaml/. 
+This repo contains a Dockerfile which is automatically built and available at https://hub.docker.com/r/madmuffin/pyyaml/. 
 
 The image contains
  - [Python 3.8 on Alpine Linux](https://hub.docker.com/_/python/)
